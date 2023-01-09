@@ -1,0 +1,5 @@
+Hello 
+coefficient of determination:0.9899903033301838
+intercept:15859.99820740339
+coefficients:[3083.80388993 2146.99291924 2081.2046249 ]
+expected salary in task:[53837.77000986 95147.62032805]
